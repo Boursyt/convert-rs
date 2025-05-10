@@ -32,6 +32,9 @@ Résultat : 100 celsius = 212.00 fahrenheit
 - 🦀 [Rust](https://www.rust-lang.org)
 - ⚙️ [clap](https://docs.rs/clap/latest/clap/) : gestion des arguments en ligne de commande
 
+## 👤 Auteur
+
+Théo Boursy – [@Boursyt](https://github.com/Boursyt/)
 
 
 ## 📄 Licence
