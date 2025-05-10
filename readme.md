@@ -36,5 +36,5 @@ Résultat : 100 celsius = 212.00 fahrenheit
 
 ## 📄 Licence
 
-MIT – libre à utiliser et modifier.
+GPL v3
 
